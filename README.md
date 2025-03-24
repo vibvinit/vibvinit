@@ -1,7 +1,7 @@
 👋 Hi, My name is Vineet
  👀 I’m interested in Data Analytics
- 🌱 I’m currently learning SQL
- 💞️ I’m looking to collaborate on SQL data analytics projects
+ 🌱 I’m currently learning Python
+ 💞️ I’m looking to collaborate with other data analyst 
  📫 You can reach me on vibvinit@outlook.com
 
 <!---
