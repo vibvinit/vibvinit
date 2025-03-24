@@ -7,7 +7,7 @@
   I am transitioning into Data Analytics, leveraging my analytical mindset and industry expertise to uncover data-driven insights.
 
 📖 Education:
-🎓 Pursuing a Post Graduate Diploma in Data Analytics from Purdue University
+🎓 Pursuing a Post Graduate Program in Data Analytics from Purdue University
 
 💡 Interests:
 
