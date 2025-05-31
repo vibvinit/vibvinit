@@ -56,7 +56,7 @@ This project required the use of advanced SQL queries such as CTEs. I Used SQL q
 
 This project was done as part of the Maven monthly challenge. I had fun doing this project and creating the visualisations. 
 
-📫 Let's Connect
+#### Let's Connect
 
 * [LinkedIn](https://www.linkedin.com/in/khuranavineet/)
 * [Email](mailto:vibvinit@outlook.com)
