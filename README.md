@@ -1,23 +1,27 @@
-👋 Hi, I'm Vineet
+![](https://github.com/vibvinit/vibvinit/blob/main/Github%20Banner.png)
+
+Hi, I'm Vineet — a data analyst, passionate about turning data into insights.  
+
+Welcome to my GitHub page, where I showcase real-world projects.
 
 ### About Me
 I'm a data analyst passionate about transforming raw data into actionable insights. My expertise lies in Excel, SQL, and Power BI, and I enjoy creating interactive dashboards and analytical reports that drive informed decision-making.
 
 ### Professional background
-Sales - over 10 years of experience as BDM
-Retail - over 10 years of experience as Category Manager 
+* Sales - over 10 years of experience as BDM
+* Retail - over 10 years of experience as Category Manager 
 
 ### Education:
-Pursuing a Postgraduate Program in Data Analytics from Purdue University
-Diploma in Retail Management
-Bachelor's in Computer Science
+* Pursuing a Postgraduate Program in Data Analytics from Purdue University
+* Diploma in Retail Management
+* Bachelor's in Computer Science
 
  ### Interests:
-1. Excel, Python & SQL
-2. Data Visualisation 
-3. Business Intelligence 
-4. Predictive Analytics
-5. Artificial Intelligence
+* Excel, Python & SQL
+* Data Visualisation
+* Business Intelligence
+* Predictive Analytics
+* Artificial Intelligence
 
 # Project Portfolio
 
@@ -54,8 +58,8 @@ This project was done as part of the Maven monthly challenge. I had fun doing th
 
 📫 Let's Connect
 
-LinkedIn
-Email
+* [LinkedIn](https://www.linkedin.com/in/khuranavineet/)
+* [Email](vibvinit@outlook.com)
 
 Feel free to explore my repositories for more projects and insights into my work.
 
