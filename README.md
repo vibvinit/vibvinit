@@ -59,7 +59,7 @@ This project was done as part of the Maven monthly challenge. I had fun doing th
 📫 Let's Connect
 
 * [LinkedIn](https://www.linkedin.com/in/khuranavineet/)
-* [Email](vibvinit@outlook.com)
+* [Email](mailto:vibvinit@outlook.com)
 
 Feel free to explore my repositories for more projects and insights into my work.
 
