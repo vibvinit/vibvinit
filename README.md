@@ -26,33 +26,33 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 # Project Portfolio
 
 ### Microsoft Excel Projects
-[Project 1 : Build an e-commerce sales dashboard](https://github.com/vibvinit/data_analytics_ecommerce_sales_dashboard)
+[Project 1: Build an e-commerce sales dashboard](https://github.com/vibvinit/data_analytics_ecommerce_sales_dashboard)
 
 This project was part of the PG program, where I used Excel to create an e-commerce sales dashboard. The dashboard shows the KPI's and insights for the management. 
 
-[Project 2 : Restaurant tips Prediction](https://github.com/vibvinit/predictive_analytics_project)
+[Project 2: Restaurant tips Prediction](https://github.com/vibvinit/predictive_analytics_project)
 
 This project was also part of the PG program, in which I used advanced analytics (linear regression) to predict the restaurant tips. 
 
-[Project 3 : NYC Traffic Safety Analysis](https://github.com/vibvinit/NYC-Traffic-Safety-Analysis)
+[Project 3: NYC Traffic Safety Analysis](https://github.com/vibvinit/NYC-Traffic-Safety-Analysis)
 
-Analysed New York City's traffic accident data to identify key factors contributing to collisions. The project involved data cleaning, exploratory data analysis, and visualisation using Power BI to uncover trends and provide actionable recommendations for improving road safety.
+Analysed New York City's traffic accident data to identify key factors contributing to collisions. The project involved data cleaning, exploratory data analysis, and visualisation to uncover trends and provide actionable recommendations for improving road safety.
 
 ### SQL Projects
-[Project 4 : Air Cargo SQL Project](https://github.com/vibvinit/Air-Cargo-SQL-Project)
+[Project 4: Air Cargo SQL Project](https://github.com/vibvinit/Air-Cargo-SQL-Project)
 
 This project was part of the PG program, in which passenger data needs be analysed. 
 
-[Project 5 : ScienceQtech Employee Performance](https://github.com/vibvinit/ScienceQtech-Employee-Performace)
+[Project 5: ScienceQtech Employee Performance](https://github.com/vibvinit/ScienceQtech-Employee-Performace)
 
 This project was part of the PG program, in which passenger data needs be analysed. 
 
-[Project 6 : Advanced SQL Major League Baseball (MLB)](https://github.com/vibvinit/Major-League-Baseball-MLB-)
+[Project 6: Advanced SQL Major League Baseball (MLB)](https://github.com/vibvinit/Major-League-Baseball-MLB-)
 
 This project required the use of advanced SQL queries such as CTEs. I Used SQL queries to track how the players statistics have changed over time and across teams in the league
 
 ### Power BI Projects
-[Project 7 : Pixar Films - Storytelling with visualisation](https://github.com/vibvinit/Pixar-Films-Analysis)
+[Project 7: Pixar Films - Storytelling with visualisation](https://github.com/vibvinit/Pixar-Films-Analysis)
 
 This project was done as part of the Maven monthly challenge. I had fun doing this project and creating the visualisations. 
 
