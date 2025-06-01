@@ -20,7 +20,7 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 * Excel, Python & SQL
 * Data Visualisation
 * Business Intelligence
-* Predictive Analytics
+* Machine Learning
 * Artificial Intelligence
 
 # Project Portfolio
@@ -28,11 +28,17 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 ### Microsoft Excel Projects
 [Project 1: Build an e-commerce sales dashboard](https://github.com/vibvinit/data_analytics_ecommerce_sales_dashboard)
 
-This project was part of the PG program, where I used Excel to create an e-commerce sales dashboard. The dashboard shows the KPI's and insights for the management. 
+This project was part of the PG program, where I used Excel to create an e-commerce sales dashboard. The dashboard displays the KPIs and insights for management.
 
-[Project 2: Restaurant tips Prediction](https://github.com/vibvinit/predictive_analytics_project)
+* Created User Control Combo boxes for Product Category and Regions
+* Created tables and pivot tables, and created links with the combo boxes
+* Build visualisations to display sales trends
+
+[Project 2: Restaurant Tips Prediction](https://github.com/vibvinit/predictive_analytics_project)
 
 This project was also part of the PG program, in which I used advanced analytics (linear regression) to predict the restaurant tips. 
+
+
 
 [Project 3: NYC Traffic Safety Analysis](https://github.com/vibvinit/NYC-Traffic-Safety-Analysis)
 
@@ -43,13 +49,13 @@ Analysed New York City's traffic accident data to identify key factors contribut
 
 This project was part of the PG program, in which passenger data needs be analysed. 
 
-[Project 5: ScienceQtech Employee Performance](https://github.com/vibvinit/ScienceQtech-Employee-Performace)
+[Project 5: ScienceQtech Employee Performance](https://github.com/vibvinit/ScienceQtech-Employee-Performace)Ct
 
 This project was part of the PG program, in which passenger data needs be analysed. 
 
 [Project 6: Advanced SQL Major League Baseball (MLB)](https://github.com/vibvinit/Major-League-Baseball-MLB-)
 
-This project required the use of advanced SQL queries such as CTEs. I Used SQL queries to track how the players statistics have changed over time and across teams in the league
+This project required the use of advanced SQL queries such as subqueries, CTEs, and window functions. I used SQL queries to track how the players' statistics have changed over time and across teams in the league
 
 ### Power BI Projects
 [Project 7: Pixar Films - Storytelling with visualisation](https://github.com/vibvinit/Pixar-Films-Analysis)
