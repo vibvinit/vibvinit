@@ -57,7 +57,7 @@ This project was part of the PG program, in which passenger and flight data were
 * categorise flights in 3 categories - short distance travel (SDT), intermediate distance travel (IDT), and long-distance travel (LDT)
 * and many more
 
-[Project 5: ScienceQtech Employee Performance](https://github.com/vibvinit/ScienceQtech-Employee-Performace)Ct
+[Project 5: ScienceQtech Employee Performance](https://github.com/vibvinit/ScienceQtech-Employee-Performace)
 
 This project was part of the PG program, in which employees' ratings, performance and projects undertaken were analysed. Some key objectives were to:
 * Identify employees based on department
