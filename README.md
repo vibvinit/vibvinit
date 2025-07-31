@@ -23,6 +23,8 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 * Machine Learning
 * Artificial Intelligence
 
+---
+
 # Project Portfolio
 
 ### Microsoft Excel Projects
@@ -48,6 +50,8 @@ Analysed New York City's traffic accident data to identify key factors contribut
 * Exploratory data analysis
 * Visualisation to uncover trends and provide actionable recommendations for improving road safety.
 
+---
+
 ### SQL Projects
 [Project 4: Air Cargo SQL Project](https://github.com/vibvinit/Air-Cargo-SQL-Project)
 
@@ -72,6 +76,8 @@ This project required the use of advanced SQL queries such as subqueries, CTEs, 
 * What does each player’s career look like?
 * How do player attributes compare?
 
+---
+
 ### Power BI Projects
 [Project 7: Maven Toys Store KPI Report](https://github.com/vibvinit/Maven-Toy-Stores-KPI-report)
 
@@ -89,6 +95,51 @@ This project was done as part of the Maven monthly challenge. It involved:
 * Define KPIs and create measures using DAX
 * Build visualisations to share the insights
 * Provide key findings
+
+[Project 9: Customer Loyalty dashboard - dataDNA_July2025_Challenge](https://github.com/vibvinit/dataDNA_July2025_Challenge)
+
+This project was done as part of the dataDNA July, 2025 challenge. It involved:
+* Define KPIs and create measures using DAX
+* Build visualisations to share the insights
+* Provide key findings
+* Provide strategic recommendations
+
+[Project 10: Ace_Superstore Sales Dashboard - RDAMP Mentorship Program](https://github.com/vibvinit/RDAMP-Sales-Analysis)
+
+This project was done as part of the RDAMP mentorship program. It involved:
+* Perform ETL
+* Define KPIs and create measures using DAX
+* Build visualisations to share the insights
+* Provide key findings
+* Provide strategic recommendations
+
+---
+
+### Multi-tools Projects
+
+[Project 11: Ace_Superstore_SQLView_Data_modeling_Dashboard - RDAMP Mentorship Program](https://github.com/vibvinit/RDAMP-Sales-Analysis)
+
+This project was done as part of the RDAMP mentorship program. It involved working with SQL and PowerBI:
+* Create the database and tables in SQL
+* Create Views in SQL
+* Create a schema in SQL
+* Connect PowerBI with SQL to import Views
+* Build visualisations 
+
+
+[Project 12: Rychtenshane_Community_Housing_Group_LMS_Analytics](https://github.com/ZO4-v0/RDAMP_LMS_Analytics_RCHG)
+
+This group project was done as part of the RDAMP mentorship program. It involved working with Excel, Python and PowerBI:
+* Perform Data Cleaning
+* Perform EDA
+* Create a data model in PowerBI - Snowflake 
+* Define KPIs and create measures
+* Perform statistical analysis in python
+* Create PowerBI report to present key insights
+* Propose strategic recommendations
+* Propose future KPIs 
+
+---
 
 #### Let's Connect
 
