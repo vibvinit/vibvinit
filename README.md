@@ -117,7 +117,7 @@ This project was done as part of the RDAMP mentorship program. It involved:
 
 ### Multi-tools Projects
 
-[Project 11: Ace_Superstore_SQLView_Data_modeling_Dashboard - RDAMP Mentorship Program](https://github.com/vibvinit/RDAMP-Sales-Analysis)
+[Project 11: Ace_Superstore_SQLView_Data_modeling_Dashboard - RDAMP Mentorship Program](https://github.com/vibvinit/RDAMP-Dimensional-Model-PowerBI-)
 
 This project was done as part of the RDAMP mentorship program. It involved working with SQL and PowerBI:
 * Create the database and tables in SQL
