@@ -113,6 +113,17 @@ This project was done as part of the RDAMP mentorship program. It involved:
 * Provide key findings
 * Provide strategic recommendations
 
+[Project 11: Sports Injuries Analysis - FP20 Analytics Challenge 29](https://github.com/vibvinit/FP20-Analytics-Challenge-29-Vineet/blob/main/README.md)
+
+This project was completed as part of the FP20 Analytics Challenge 29. It involved:
+* Exploring the data
+* Creating the date table
+* Create a data model
+* Define KPIs and create measures using DAX
+* Build Visualisations to share the insights
+* Share the key insights
+* Share recommendations
+  
 ---
 
 ### Multi-tools Projects
