@@ -128,7 +128,7 @@ This project was completed as part of the FP20 Analytics Challenge 29. It involv
 
 ### Multi-tools Projects
 
-[Project 11: Ace_Superstore_SQLView_Data_modeling_Dashboard - RDAMP Mentorship Program](https://github.com/vibvinit/RDAMP-Dimensional-Model-PowerBI-)
+[Project 12: Ace_Superstore_SQLView_Data_modeling_Dashboard - RDAMP Mentorship Program](https://github.com/vibvinit/RDAMP-Dimensional-Model-PowerBI-)
 
 This project was done as part of the RDAMP mentorship program. It involved working with SQL and PowerBI:
 * Create the database and tables in SQL
@@ -138,7 +138,7 @@ This project was done as part of the RDAMP mentorship program. It involved worki
 * Build visualisations 
 
 
-[Project 12: Rychtenshane_Community_Housing_Group_LMS_Analytics](https://github.com/ZO4-v0/RDAMP_LMS_Analytics_RCHG)
+[Project 13: Rychtenshane_Community_Housing_Group_LMS_Analytics](https://github.com/ZO4-v0/RDAMP_LMS_Analytics_RCHG)
 
 This group project was done as part of the RDAMP mentorship program. It involved working with Excel, Python and PowerBI:
 * Perform Data Cleaning
