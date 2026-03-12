@@ -96,7 +96,7 @@ Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
 # Connect With Me
 
-LinkedIn: YOUR_LINKEDIN  
+LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/khuranavineet/)  
 Email: wineet.khurana@gmail.com
 
 Feel free to explore my repositories to see more analytics projects and dashboards.
