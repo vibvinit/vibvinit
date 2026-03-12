@@ -41,6 +41,7 @@ This commercial experience allows me to approach analytics from a **business per
 Power BI dashboard analysing **revenue performance, pipeline health, sales rep productivity, and customer churn** in a telecom B2B environment.
 
 Key insights:
+
 • Fibre contributed ~50% of Net ARR  
 • Service issues drove the highest churn and the lowest NPS  
 • Pipeline analysis identified a large number of stale opportunities
@@ -54,6 +55,7 @@ https://github.com/vibvinit/B2B_Telecom_Sales_Ops_Analysis
 Power BI dashboard analysing customer loyalty behaviour and engagement metrics.
 
 Key areas analysed:
+
 • Customer segmentation  
 • Loyalty engagement trends  
 • Strategic recommendations for improving retention
@@ -64,6 +66,7 @@ Key areas analysed:
 End-to-end sales analysis project using **SQL and Power BI**.
 
 Tasks included:
+
 • Data modelling  
 • KPI development using DAX  
 • Sales trend visualisation  
