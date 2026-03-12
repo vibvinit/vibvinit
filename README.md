@@ -76,7 +76,7 @@ Tasks included:
 • Performance insights for management
 
 🔗 Project
-(https://github.com/vibvinit/Ace_Superstore_Sales_Dashboard)
+https://github.com/vibvinit/Ace_Superstore_Sales_Dashboard
 
 ---
 
