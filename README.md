@@ -75,7 +75,7 @@ Tasks included:
 • Sales trend visualisation  
 • Performance insights for management
 
-🔗 Project
+🔗 Project  
 https://github.com/vibvinit/Ace_Superstore_Sales_Dashboard
 
 ---
@@ -102,7 +102,7 @@ Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
 # Connect With Me
 
-LinkedIn: ![linkedin.com/in/khuranavineet](https://www.linkedin.com/in/khuranavineet/)  
+LinkedIn: [linkedin.com/in/khuranavineet](https://www.linkedin.com/in/khuranavineet/)  
 Email: wineet.khurana@gmail.com
 
 Feel free to explore my repositories to see more analytics projects and dashboards.
