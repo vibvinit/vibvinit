@@ -11,12 +11,14 @@ My work focuses on **data analysis, dashboard development, and business intellig
 # Skills
 
 **Data Analysis & BI**
+
 • Excel  
 • SQL  
 • Power BI  
 • Python  
 
 **Analytics**
+
 • Data Cleaning & Transformation  
 • Exploratory Data Analysis  
 • Data Visualisation  
