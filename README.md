@@ -60,6 +60,9 @@ Key areas analysed:
 • Loyalty engagement trends  
 • Strategic recommendations for improving retention
 
+🔗 Project  
+https://github.com/vibvinit/Customer_Loyalty_Dashboard
+
 ---
 
 ## Ace Superstore Sales Dashboard
@@ -71,6 +74,9 @@ Tasks included:
 • KPI development using DAX  
 • Sales trend visualisation  
 • Performance insights for management
+
+🔗 Project
+(https://github.com/vibvinit/Ace_Superstore_Sales_Dashboard)
 
 ---
 
