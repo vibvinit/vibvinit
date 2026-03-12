@@ -28,8 +28,8 @@ My work focuses on **data analysis, dashboard development, and business intellig
 
 # Professional Background
 
-• **Sales** – 10+ years experience as Business Development Manager  
-• **Retail** – 10+ years experience as Category Manager  
+• **Sales** – 8+ years experience as Business Development Manager  
+• **Retail** – 8+ years experience as Category Manager  
 
 This commercial experience allows me to approach analytics from a **business perspective**, understanding how data supports revenue growth and operational performance.
 
