@@ -1,108 +1,62 @@
 # Hi, I'm Vineet 👋
 
-**Data Analyst | Sales operations & Business Analytics | Power BI | SQL | Advance Excel | Python |**
+**Account Manager | Client Success | Data-Driven Account Growth**
+Power BI · SQL · Excel · Python
 
-I’m a data analyst with a strong commercial background in **sales and retail**, passionate about transforming data into insights that support business decisions.
-
-My work focuses on **data analysis, dashboard development, and business intelligence**, helping organisations understand performance, identify trends, and improve decision-making.
-
----
-
-# Skills
-
-**Data Analysis & BI**
-
-• Excel  
-• SQL  
-• Power BI  
-• Python  
-
-**Analytics**
-
-• Data Cleaning & Transformation  
-• Exploratory Data Analysis  
-• Data Visualisation  
-• KPI & Performance Reporting  
+I'm an account manager with 10+ years of experience growing and retaining B2B client relationships across education, government, not-for-profit and cybersecurity. What sets my approach apart is data: I use reporting and analytics to spot at-risk accounts early, find growth opportunities in existing clients, and give clients clear, useful reporting on how their program is performing.
 
 ---
 
-# Professional Background
+## How I use data in account management
 
-• **Sales** – 8+ years experience as Business Development Manager  
-• **Retail** – 8+ years experience as Category Manager  
-
-This commercial experience allows me to approach analytics from a **business perspective**, understanding how data supports revenue growth and operational performance.
-
----
-
-# Featured Projects
-
-## Telecom Sales Operations Analysis
-Power BI dashboard analysing **revenue performance, pipeline health, sales rep productivity, and customer churn** in a telecom B2B environment.
-
-Key insights:
-
-• Fibre contributed ~50% of Net ARR  
-• Service issues drove the highest churn and the lowest NPS  
-• Pipeline analysis identified a large number of stale opportunities
-
-🔗 Project  
-https://github.com/vibvinit/B2B_Telecom_Sales_Ops_Analysis
+- **Spotting risk early** – tracking engagement, service issues and activity trends to flag accounts before they churn
+- **Finding growth** – segmenting a portfolio to see where participation or adoption is low and where the biggest opportunities sit
+- **Better client reviews** – building clear KPI dashboards so review meetings focus on outcomes, not just activity
+- **Prioritising my time** – tiering accounts by value, risk and renewal timing
 
 ---
 
-## Customer Loyalty Dashboard
-Power BI dashboard analysing customer loyalty behaviour and engagement metrics.
+## Track record
 
-Key areas analysed:
-
-• Customer segmentation  
-• Loyalty engagement trends  
-• Strategic recommendations for improving retention
-
-🔗 Project  
-https://github.com/vibvinit/Customer_Loyalty_Dashboard
+- **Fuji Xerox** – managed a 200-account education portfolio through Salesforce; 104% of an $850K annual target
+- **Quadient** – $750K revenue against a $650K budget; Rookie of the Year
+- **Tutor Doctor (franchise owner)** – 75% client retention against a 50% network benchmark; recruited and led 25+ tutors
+- **3Columns** – built a $1M pipeline in 6 months and closed $380K in 9 months, selling cybersecurity services to education, government and NFP clients
 
 ---
 
-## Ace Superstore Sales Dashboard
-End-to-end sales analysis project using **SQL and Power BI**.
+## Portfolio projects
 
-Tasks included:
+These are portfolio projects built on sample data, showing how I'd approach reporting for a client portfolio.
 
-• Data modelling  
-• KPI development using DAX  
-• Sales trend visualisation  
-• Performance insights for management
+### Sales Operations & Churn Analysis (Power BI)
+Revenue performance, pipeline health, rep productivity and customer churn for a simulated B2B business.
+**Account management angle:** service issues were the biggest driver of churn and the lowest NPS, which pointed to where retention effort should go first. Pipeline analysis also surfaced a large number of stale opportunities worth re-engaging.
+🔗 [View project](https://github.com/vibvinit/B2B_Telecom_Sales_Ops_Analysis)
 
-🔗 Project  
-https://github.com/vibvinit/Ace_Superstore_Sales_Dashboard
+### Customer Loyalty & Retention Dashboard (Power BI)
+Customer segmentation, engagement trends and retention recommendations.
+**Account management angle:** identifying which customer segments are disengaging, and what actions would lift retention.
+🔗 [View project](https://github.com/vibvinit/Customer_Loyalty_Dashboard)
 
----
-
-# Tools & Technologies
-
-Power BI | SQL | Excel | Python | Data Visualisation | Business Intelligence
-
----
-
-# Education
-
-Postgraduate Program in Data Analytics – Purdue University  
-Diploma in Retail Management  
-Bachelor’s in Computer Science
+### Sales Performance Dashboard (SQL + Power BI)
+Data modelling, KPI development in DAX and trend reporting for management.
+**Account management angle:** the kind of clear, regular performance reporting that makes client review meetings productive.
+🔗 [View project](https://github.com/vibvinit/Ace_Superstore_Sales_Dashboard)
 
 ---
 
-# Certification
+## Qualifications
 
-Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- Postgraduate Program in Data Analytics – Purdue University
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- Certified in Cybersecurity (CC) – (ISC)²
+- Bachelor of Computer Applications
+- Diploma in Retail Management
 
 ---
 
-# Connect With Me
+## Connect
 
-LinkedIn: [linkedin.com/in/khuranavineet](https://www.linkedin.com/in/khuranavineet/)  
-Email: wineet.khurana@gmail.com
-
-Feel free to explore my repositories to see more analytics projects and dashboards.
+LinkedIn: [linkedin.com/in/khuranavineet](https://www.linkedin.com/in/khuranavineet/)
+Email: vibvinit@gmail.com
